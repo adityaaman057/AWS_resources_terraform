@@ -1,6 +1,6 @@
 # 🚀 Terraform Commands
 
-A quick reference for the most commonly used **Terraform commands** when initializing, planning, deploying, and destroying infrastructure.
+A quick reference for the most commonly used **Terraform commands** when initializing, planning, deploying, and destroying infrastructure like - EC2 instance, EKS, VPC, User & roles etc.
 
 ---
 
